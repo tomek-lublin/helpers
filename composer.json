@@ -1,0 +1,24 @@
+{
+    "name": "tomek-lublin/helpers",
+    "description": "A minimalist Excel-like grid widget for Yii2",
+    "keywords": ["helpers"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "support": {
+        "source": "https://github.com/tomek-lublin/helpers"
+    },
+    "authors": [
+        {
+            "name": "tomek-lublin",
+            "homepage": "https://github.com/tomek-lublin/"
+        }
+    ],
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "tomek-lublin\\helpers\\": ""
+        }
+    }
+}
