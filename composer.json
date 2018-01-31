@@ -1,6 +1,6 @@
 {
     "name": "tomek-lublin/helpers",
-    "description": "A minimalist Excel-like grid widget for Yii2",
+    "description": "Helpers",
     "keywords": ["helpers"],
     "type": "yii2-extension",
     "license": "MIT",
